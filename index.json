@@ -5,7 +5,7 @@
         "lastname" : "Verstappen",
         "nationality" : "Netherlands",
         "podiums" : 79,
-        "team" : "Red Bull Racing",
+        "team" : "Red Bull Racing"
     },
     {
         "id": 1,
@@ -13,7 +13,7 @@
         "lastname" : "Perez",
         "nationality" : "Mexico",
         "podiums" : 28,
-        "team" : "Red Bull Racing",
+        "team" : "Red Bull Racing"
     },
     {
         "id": 2,
@@ -21,7 +21,7 @@
         "lastname" : "Alonso",
         "nationality" : "Spain",
         "podiums" : 100,
-        "team" : "Aston Martin",
+        "team" : "Aston Martin"
     },
     {
         "id": 3,
@@ -29,6 +29,6 @@
         "lastname" : "Sainz",
         "nationality" : "Mexico",
         "podiums" : 15,
-        "team" : "Ferrari",
-    },
+        "team" : "Ferrari"
+    }
 ]
