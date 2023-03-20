@@ -1,8 +1,34 @@
 [
     {
         "id": 0,
-        "name" : "Mikheil",
-        "lastname" : "Gochitashvili",
-        "age": 19
-    }
+        "name" : "Max",
+        "lastname" : "Verstappen",
+        "nationality" : "Netherlands",
+        "podiums" : 79,
+        "team" : "Red Bull Racing",
+    },
+    {
+        "id": 1,
+        "name" : "Sergio",
+        "lastname" : "Perez",
+        "nationality" : "Mexico",
+        "podiums" : 28,
+        "team" : "Red Bull Racing",
+    },
+    {
+        "id": 2,
+        "name" : "Fernando",
+        "lastname" : "Alonso",
+        "nationality" : "Spain",
+        "podiums" : 100,
+        "team" : "Aston Martin",
+    },
+    {
+        "id": 3,
+        "name" : "Carlos",
+        "lastname" : "Sainz",
+        "nationality" : "Mexico",
+        "podiums" : 15,
+        "team" : "Ferrari",
+    },
 ]
